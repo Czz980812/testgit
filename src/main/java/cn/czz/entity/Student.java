@@ -5,4 +5,8 @@ public class Student {
     private String name;
     private Long age;
     private String classes;
+
+    public Long getId(){
+        return Id;
+    }
 }
